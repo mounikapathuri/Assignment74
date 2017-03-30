@@ -1,0 +1,13 @@
+package assi74;
+
+public class replace {
+
+	public static void main(String[] args) {
+		String ss=" 21/may/2012";
+		String ss1=ss.replace('/', ',');
+		System.out.println(""+ss1);
+		
+
+	}
+
+}
